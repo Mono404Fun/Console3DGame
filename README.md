@@ -78,11 +78,13 @@ Resolution  | FPS  | Render Time
 
 ## 🎨 Artistic Showcase
 
-[ASCII Art Frame]
+```plaintext
+[ASCII Art Frame]  
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
 █ 3D CONSOLE █  
 █ ENGINE █  
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 *Dynamic title screen with animated elements*
 
 ## 🤝 Community & Contribution
