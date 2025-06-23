@@ -81,8 +81,8 @@ Resolution  | FPS  | Render Time
 ```plaintext
 [ASCII Art Frame]  
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
-█ 3D CONSOLE █  
-█ ENGINE █  
+█ 3D CONSOLE  █  
+█    ENGINE   █  
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 *Dynamic title screen with animated elements*
