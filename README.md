@@ -48,13 +48,11 @@ This engine transforms ordinary terminal characters into a 3D world using:
 - **Dynamic Resolution** scaling  
 
 ## 🏆 Benchmark Performance
-```plaintext
 Resolution  | FPS  | Render Time  
 -----------|------|-------------  
 80x25      | 60   | 16ms        
 120x40     | 45   | 22ms        
 160x50     | 30   | 33ms
-```
 
 ## 🌟 Why This Stands Out
 
@@ -81,10 +79,10 @@ Resolution  | FPS  | Render Time
 ## 🎨 Artistic Showcase
 
 [ASCII Art Frame]
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ 3D CONSOLE █
-█ ENGINE █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
+█ 3D CONSOLE █  
+█ ENGINE █  
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  
 *Dynamic title screen with animated elements*
 
 ## 🤝 Community & Contribution
